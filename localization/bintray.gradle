@@ -1,0 +1,13 @@
+apply plugin: "guru.stefma.bintrayrelease"
+
+version = "1.0.5"
+group = "net.aihelp"
+androidArtifact { // 2
+    artifactId = "ailate"
+}
+publish {
+    userOrg = 'lijiateng'
+    repoName = 'AILate-SDK'
+    desc = '和 GitHub 是关联的，需要把更改的代码提交到 GitHub 才能同步到 bintray'
+    website = 'https://github.com/Joeljt/AILate'
+}

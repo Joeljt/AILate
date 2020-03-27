@@ -1,0 +1,5 @@
+ninja: Entering directory `/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/app/.cxx/cmake/debug/x86_64'
+[1/4] Building CXX object CMakeFiles/test-jni.dir/net_aihelp_MyTest.cpp.o
+[2/4] Linking CXX shared library /Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/app/build/intermediates/cmake/debug/obj/x86_64/libtest-jni.so
+[3/4] Building CXX object CMakeFiles/native-lib.dir/native-lib.cpp.o
+[4/4] Linking CXX shared library /Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so

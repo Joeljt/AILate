@@ -1,0 +1,2 @@
+/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir

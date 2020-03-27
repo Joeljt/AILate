@@ -1,0 +1,18 @@
+# ninja log v5
+0	48	1584150962	build.ninja	48f59a9f81e6db4
+0	9	0	clean	ec67781fea2b612b
+1	40	1584150967	build.ninja	48f59a9f81e6db4
+0	70	1584150967	CMakeFiles/test-jni.dir/net_aihelp_MyTest.cpp.o	f37c630d74036341
+70	97	1584150967	/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/app/build/intermediates/cmake/debug/obj/x86_64/libtest-jni.so	a6de57b35f2d324f
+0	454	1584150967	CMakeFiles/native-lib.dir/native-lib.cpp.o	aadaa18e2d69a0a0
+454	540	1584150967	/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	e7d8e46942d4642
+0	50	1584151005	build.ninja	48f59a9f81e6db4
+1	8	0	clean	ec67781fea2b612b
+2	121	1584151011	CMakeFiles/test-jni.dir/net_aihelp_MyTest.cpp.o	f37c630d74036341
+122	194	1584151011	/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/app/build/intermediates/cmake/debug/obj/x86_64/libtest-jni.so	dc5f83d3766a255d
+2	666	1584151011	CMakeFiles/native-lib.dir/native-lib.cpp.o	aadaa18e2d69a0a0
+666	725	1584151011	/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	adc95697358221f3
+0	44	1584152399	build.ninja	48f59a9f81e6db4
+0	8	0	clean	ec67781fea2b612b
+1	462	1584152404	CMakeFiles/native-lib.dir/native-lib.cpp.o	aadaa18e2d69a0a0
+462	514	1584152404	/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	e7d8e46942d4642

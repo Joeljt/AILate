@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "/Users/lijiateng/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/Users/lijiateng/Library/Android/sdk/ndk/21.0.6113669/build/cmake/platforms.cmake",
+    "/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/localization/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/lijiateng/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/localization/.cxx/cmake/release/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/lijiateng/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/localization/.cxx/cmake/release/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Release-arm64-v8a": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/lijiateng/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/localization/.cxx/cmake/release/arm64-v8a\" native-lib",
+      "abi": "arm64-v8a",
+      "output": "/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/localization/build/intermediates/cmake/release/obj/arm64-v8a/libnative-lib.so"
+    }
+  }
+}

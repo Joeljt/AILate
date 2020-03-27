@@ -1,0 +1,3 @@
+ninja: Entering directory `/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/localization/.cxx/cmake/debug/armeabi-v7a'
+[1/2] Building CXX object CMakeFiles/native-lib.dir/native-lib.cpp.o
+[2/2] Linking CXX shared library /Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/localization/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so

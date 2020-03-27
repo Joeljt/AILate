@@ -1,0 +1,20 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 16 min SDK version: x86",
+    "file": "/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/localization/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/localization/.cxx/cmake/release/x86/android_gradle_build.json\u0027 was up-to-date",
+    "file": "/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/localization/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/localization/src/main/cpp/CMakeLists.txt",
+    "tag": "release|x86"
+  }
+]

@@ -1,0 +1,26 @@
+# ninja log v5
+0	576	1584150712	CMakeFiles/native-lib.dir/native-lib.cpp.o	a9c12b58f6bf81c4
+577	736	1584150712	/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	7365ca1895685cab
+1	58	1584150962	build.ninja	b3f88703085b1016
+0	11	0	clean	ec67781fea2b612b
+0	46	1584150965	build.ninja	b3f88703085b1016
+1	76	1584150965	CMakeFiles/test-jni.dir/net_aihelp_MyTest.cpp.o	23c69e08b3f05ef9
+76	113	1584150966	/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/app/build/intermediates/cmake/debug/obj/arm64-v8a/libtest-jni.so	33b50c83a94332f
+1	447	1584150966	CMakeFiles/native-lib.dir/native-lib.cpp.o	a9c12b58f6bf81c4
+447	551	1584150966	/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	7365ca1895685cab
+0	64	1584151005	build.ninja	b3f88703085b1016
+0	8	0	clean	ec67781fea2b612b
+1	101	1584151009	CMakeFiles/test-jni.dir/net_aihelp_MyTest.cpp.o	23c69e08b3f05ef9
+101	139	1584151009	/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/app/build/intermediates/cmake/debug/obj/arm64-v8a/libtest-jni.so	3d07240a7400fcc
+2	767	1584151010	CMakeFiles/native-lib.dir/native-lib.cpp.o	a9c12b58f6bf81c4
+767	931	1584151010	/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	da7f5892e01d0f68
+0	45	1584151225	build.ninja	b3f88703085b1016
+1	47	1584151225	/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/app/build/intermediates/cmake/debug/obj/arm64-v8a/libtest-jni.so	33b50c83a94332f
+2	495	1584151225	CMakeFiles/native-lib.dir/native-lib.cpp.o	a9c12b58f6bf81c4
+495	597	1584151225	/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	7365ca1895685cab
+1	44	1584152399	build.ninja	b3f88703085b1016
+0	7	0	clean	ec67781fea2b612b
+2	429	1584152403	CMakeFiles/native-lib.dir/native-lib.cpp.o	a9c12b58f6bf81c4
+429	523	1584152403	/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	7365ca1895685cab
+2	905	1584161146	CMakeFiles/native-lib.dir/native-lib.cpp.o	a9c12b58f6bf81c4
+905	1136	1584161146	/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	7365ca1895685cab

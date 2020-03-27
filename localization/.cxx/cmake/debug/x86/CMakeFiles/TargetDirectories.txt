@@ -1,0 +1,3 @@
+/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/localization/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/localization/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/Users/lijiateng/Documents/AndroidProject/aihelp/MyApplication/localization/.cxx/cmake/debug/x86/CMakeFiles/native-lib.dir
